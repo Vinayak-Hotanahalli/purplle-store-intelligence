@@ -140,6 +140,12 @@ Each event follows a standard structure:
 
 ---
 
+## Docker
+
+Docker configuration has been included.
+
+Due to the size of PyTorch dependencies, first-time image builds may take additional time depending on network conditions.
+
 ## Conclusion
 
 This project demonstrates how computer vision, event-driven design, APIs, and dashboards can be combined to transform CCTV footage into meaningful store intelligence. The architecture was intentionally designed to remain simple, modular, and easy to extend.
