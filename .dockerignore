@@ -1,0 +1,15 @@
+data/
+videos/
+*.mp4
+*.avi
+*.mov
+*.zip
+
+venv/
+__pycache__/
+
+.git/
+
+yolov8n.pt
+
+outputs/

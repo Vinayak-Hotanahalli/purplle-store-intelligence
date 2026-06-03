@@ -1,9 +1,8 @@
-fastapi
-uvicorn
-streamlit
-pandas
-opencv-python
-ultralytics
-supervision
-pydantic
-numpy
+fastapi==0.115.0
+uvicorn==0.30.6
+pandas==2.2.3
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pydantic==2.9.2
+supervision==0.24.0
+ultralytics==8.3.0
